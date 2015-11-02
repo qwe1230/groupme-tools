@@ -19,7 +19,7 @@ def onRequestError(request):
 
 def main():
     """
-    Writes out "transcript-groupId.json" with the history of the group
+    Writes out "transcript-12808597.json" with the history of the group
     in chronological order.
 
     If a file by that name is found, we'll go ahead and update that
